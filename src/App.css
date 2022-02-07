@@ -25,7 +25,7 @@
 
 .quote > p {
 	margin-top: 0;
-	margin-bottom: 40px;
+	margin-bottom: 60px;
 }
 
 .inv-name {
@@ -37,20 +37,21 @@
 
 .inv-name > p {
 	margin-top: 0;
-	margin-bottom: 15px;
+	margin-bottom: 20px;
 }
 
 .content {
 	width: 45%;
-	margin-top: 40px;
+	margin-top: 50px;
 }
 
 .content > p {
 	font-family: "Poppins", sans-serif;
+  margin-bottom: 40px;
 }
 
 .mt-2 {
-	margin-top: 30px;
+	margin-top: 60px;
 }
 
 strong {
