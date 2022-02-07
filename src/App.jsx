@@ -8,12 +8,8 @@ import "aos/dist/aos.css";
 function App() {
 	React.useEffect(() => {
 		AOS.init({
-			debounceDelay: 20,
-			throttleDelay: 50,
-			offset: 10,
 			duration: 700,
 			easing: 'ease-in-out',
-			mirror: true,
 			anchorPlacement: 'top-bottom',
 		});
 		AOS.refresh();

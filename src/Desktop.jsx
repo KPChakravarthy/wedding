@@ -2,10 +2,6 @@ import { useEffect } from "react";
 import { QRCode } from "./icons";
 
 const Desktop = () => {
-	useEffect(() => {
-		console.log(window.location.search)
-	}, []);
-
 	return (
 		<>
 			<div className="bg-img"></div>

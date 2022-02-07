@@ -44,9 +44,9 @@ const Mobile = () => {
 					</p>
 				</div>
 			</div>
-			<div className="get-dir-btn" data-aos="flip-up">
+			<div className="get-dir-btn">
 				<a href="https://t.ly/SeJg" target="_blank">
-					<button className="primary-button">GET DIRECTIONS</button>
+					<button className="primary-button" data-aos="zoom-in-right">GET DIRECTIONS</button>
 				</a>
 			</div>
 		</>
