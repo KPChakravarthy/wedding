@@ -1,10 +1,16 @@
-import logo from "./logo.svg";
 import "./App.css";
+import Desktop from "./Desktop";
+import Mobile from "./Mobile";
 
 function App() {
 	return (
 		<div className="App">
-			<p>This is my life</p>
+			<div className="isDesktop">
+				<Desktop />
+			</div>
+			<div className="isMobile">
+				<Mobile />
+			</div>
 		</div>
 	);
 }
