@@ -3,10 +3,6 @@ const Mobile = () => {
 		<>
 			<div className="bg-img"></div>
 			<div className="mobile-container">
-				<div className="quote" data-aos="fade-up">
-					<p className="quotation">Where there is love, there is life.</p>
-					<div className="author">- Mahatma Gandhi</div>
-				</div>
 				{window.location.search === "?n" ? (
 					<div className="inv-name">
 						<p data-aos="fade-up" data-aos-delay="100">Nithya Aathreya</p>

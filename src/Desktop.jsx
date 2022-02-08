@@ -5,9 +5,6 @@ const Desktop = () => {
 	return (
 		<>
 			<div className="bg-img"></div>
-			<div className="quote" data-aos="fade-up">
-				<p>Where there is love, there is life. - Mahatma Gandhi</p>
-			</div>
 			<div className="inv-name">
 				{
 					window.location.search==="?n" ?
