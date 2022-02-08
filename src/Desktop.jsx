@@ -39,7 +39,7 @@ const Desktop = () => {
 				<p className="mt-2" data-aos="fade-right" data-aos-delay="350">
 					<strong>
 						Venue - Sri Brahmasthana Kalyana Mantapa, 922/A, Sahukar Chennaiah
-						Road, Janatha Nagar, Bogadi 2nd Stage, Doora, Mysore
+						Road, T.K Layout, Mysuru - 570009
 					</strong>
 				</p>
 			</div>
